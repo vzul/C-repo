@@ -1,4 +1,9 @@
-1. Cuál es el resultado de las siguientes expresiones, el número de orden de la T es el 84:
+/******************************************************************************
+
+Cuál es el resultado de las siguientes expresiones, el número de orden de la T es el 84:
+
+*******************************************************************************/
+
 
 a) 6 + 2 * 3 – 4 / 2
 6 + (2*3) - (4/2)
