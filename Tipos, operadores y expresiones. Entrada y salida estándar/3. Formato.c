@@ -1,8 +1,9 @@
-/*
-Con única instrucción printf() imprimir para cada uno de los casos los valores que se piden:
- Suponemos realizada la declaración: int n1, n2; float x1, x2;
-*/
+/******************************************************************************
 
+Con única instrucción printf() imprimir para cada uno de los casos los valores que se piden:
+Suponemos realizada la declaración: int n1, n2; float x1, x2;
+
+*******************************************************************************/
 
 #include <stdio.h>
 
