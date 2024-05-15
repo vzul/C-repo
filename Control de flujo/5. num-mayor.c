@@ -1,7 +1,7 @@
 /******************************************************************************
 
-Escribir un programa en C que lea al menos dos valores enteros positivos por
-teclado (0 para acabar), e imprima al final el menor y el mayor de los valores
+Escribir un programa en C que lea dos valores enteros positivos por
+teclado, e imprima al final el menor y el mayor de los valores
 leídos.
 
 *******************************************************************************/
